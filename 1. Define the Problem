@@ -1,1 +1,14 @@
+Identify and Validate: 
+- There is currently snow and ice on the solar panel, and in the future there might be debris. These things are stopping the solar panel from absorbing sunlight effectively.
+
+Criteria:
+- System must be automated.
+- System has to deal with ice, snow, and debris.
+- System has to last 10 years.
+
+Constraints:
+- System cannot be too expensive.
+- System must primarily be made from materials we have.
+- System cannot block the solar panel from working.
+
 
