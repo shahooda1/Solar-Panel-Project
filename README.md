@@ -7,9 +7,3 @@ Job Responsibilities:
   Jaiden - Materials / Inventory Manager
   Shahood - Github / Documentation Manager
 
-Engineering Design Process Steps:
-  1. Define the Problem
-     - 
-  3. Generate Concepts
-  4. Develop a Solution
-  
