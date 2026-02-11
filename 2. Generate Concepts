@@ -8,4 +8,12 @@ Idea C:
 - Motorized brush that brushes snow and ice so it can fall off of the panel.
 
 
+Decision Matrix:
+
+  | Maintenence | Time | Complexity | Effectiveness | Total
+A |     3       |   3  |
+B |     1       |
+C |     2       |
+
+
 
