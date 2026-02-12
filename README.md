@@ -8,3 +8,5 @@ Job Responsibilities:
 - Jaiden: Materials / Inventory Manager
 - Shahood: Github / Documentation Manager
 
+![image alt](https://github.com/shahooda1/Solar-Panel-Project/blob/35d5e35d5c70e7248c7feb8d95f3a905773d291d/images/download.jpg)
+
